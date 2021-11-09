@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to My Reading Notes
 
-You can use the [editor on GitHub](https://github.com/joeybrantley/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Growth Mindset
+1. Explain Growth-Mindset in my own words:
+    - 
+2.
+    -
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
