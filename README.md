@@ -1,4 +1,5 @@
 ## Welcome to My Reading Notes
+102 reading notes for my class
 
 ## Growth Mindset
 Growth Mindset is all about being open to learning in all situations
