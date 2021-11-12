@@ -2,9 +2,9 @@
 102 reading notes for my class
 
 # Table of Contents
-1. [Day 1](Day1) - Growth Mindset
-2. [Day 2](Day2) - Terminal
-3. [Day 3](Day3) - Intro to Git & GitHub
+1. [Day 1](Day1.md) - Growth Mindset
+2. [Day 2](Day2.md) - Terminal
+3. [Day 3](Day3.md) - Intro to Git & GitHub
 
 
 
