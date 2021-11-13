@@ -7,6 +7,7 @@ Course 102 - Intro to Software Development
 3. [Day 3](Day3.md) - Intro to Git & GitHub
 4. [Day 4](Day4.md) - HTML & Wireframes
 5. [Day 5](Day5.md) - CSS
+6. [Day 6](Day6.md) - JavaScript
 
 
 
