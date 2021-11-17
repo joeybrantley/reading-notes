@@ -9,6 +9,7 @@ Course 102 - Intro to Software Development
 5. [Day 5](Day5.md) - CSS
 6. [Day 6](Day6.md) - JavaScript
 7. [Day 7](Day7.md) - JavaScript Expressions, Operators, and Functions
+8. [Day 8](Day8.md) - Operators & Loops
 
 
 
